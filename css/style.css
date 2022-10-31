@@ -1,0 +1,693 @@
+.headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.demo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.bootstrap .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.apps .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.paritur .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.paritura .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pariturb .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pariturc .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.pariturd .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pariture .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pariturf .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pariturg .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.downloads .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headera
+{
+	background-color:beige;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.headera .headera-fc .heada
+{
+	background-color:pink;
+	height:65px;
+	width:30%;
+	margin-top:10px;
+	
+}
+.headera .headera-fc .hcon
+{
+	background-color:beige;
+	height:81px;
+	width:50%;
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+.headera .headera-fc .hcon .headb
+{
+	background-color:lightblue;
+	height:40px;
+	width:15%;
+		margin-top:15px;
+}
+.headera .headera-fc .hcon .headc
+{
+	background-color:green;
+	height:40px;
+	width:25%;
+	margin-top:15px;
+}
+.logo
+{
+		background-color:lightblue;
+	height:533px;
+}
+.logo .logo-fc
+{
+    display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+
+.logo .logo-fc .logoa
+{
+
+	background:lightgreen;
+	height:470px;
+	width:48%;
+		margin-top:20px;
+		display:flex;
+		flex-direction:row;
+		
+	
+}
+
+.logo .logo-fc .logoa .logob
+{
+	background-color:pink;
+	width:60%;
+	margin-top:300px;
+	height:70px;
+}
+
+.logo .logo-fc .logobox
+{
+	background-color:honeydew;
+	width:50%;
+	margin-top:20px;
+	height:470px;
+}
+
+.demo 
+{
+	background-color:lightblue;
+	height:111px;
+}
+.demo .demo-fc 
+{
+	display:flex;
+    justify-content:space-evenly;
+	align-items:center;
+}
+.demo .demo-fc .dem
+{
+	background-color:skyblue;
+	height:75px;
+	width:80%;
+}
+
+.bootstrap
+{
+	background-color:lightblue;
+	height:160px;
+}
+.bootstrap .bootstrap-fc
+{
+	display:flex;
+	flex-direction:row;
+    justify-content:space-evenly;
+	align-items:center;
+}
+
+.bootstrap .bootstrap-fc .tempa
+{
+	background-color:steelblue;
+	height:75px;
+	width:25%;
+}
+
+.bootstrap .bootstrap-fc .tempb
+{
+	background-color:steelblue;
+	height:75px;
+	width:25%;
+}
+
+
+
+.portfolio
+{
+	background-color:beige;
+	height:1286px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .textport
+{
+	text-align:center;
+	width:100%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .porta
+{
+	background-color:lightblue;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portb
+{
+background-color:lightblue;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portc
+{
+	background-color:lightblue;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portd
+
+{
+	background-color:lightblue;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .porte
+{
+	background-color:lightblue;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portf
+{
+	background-color:lightblue;
+	height:390px;
+	width:31%;
+			margin-top:30px;
+}
+
+.portfolio .portfolio-fc .portg
+
+{
+	background-color:lightblue;
+	height:390px;
+	width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .porth
+{
+	background-color:lightblue;
+	height:390px;
+	width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .porti
+{
+background-color:lightblue;
+	height:390px;
+	width:31%;
+			margin-top:30px;
+}
+
+.apps 
+{
+	background-color:lightpink;
+	height:250px;
+}
+.apps .apps-fc 
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+    justify-content:space-evenly;
+	align-items:center;
+}
+.apps .apps-fc .app
+{
+	background-color:skyblue;
+	height:75px;
+	width:100%;
+	margin-top:20px;
+}
+.apps .apps-fc .appa
+{
+	background-color:steelblue;
+	height:60px;
+	width:25%;
+	margin-top:20px;
+}
+
+.apps .apps-fc .appb
+{
+	background-color:steelblue;
+	height:60px;
+	width:25%;
+	margin-top:20px;
+}
+.apps .apps-fc .appc
+{
+	background-color:steelblue;
+	height:60px;
+	width:25%;
+	margin-top:20px;
+}
+
+
+
+.paritur
+{
+		background-color:beige;
+	 height:360px;
+}
+.paritur .paritur-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+} 
+
+.paritur .paritur-fc .pbox
+{
+	background-color:powderblue;
+	width:46%;
+	height:250px;
+	margin-top:30px;
+}
+.paritur .paritur-fc .ptext
+{
+	background-color:darkturquoise;
+	text-align:center;
+    margin-top:30px;
+	width:46%;
+	height:250px;
+	
+	
+} 
+.paritur .paritur-fc .ptext .ptexta
+{
+	background-color:silver;
+	height:40px;
+	width:15%;
+		margin-top:150px;
+		
+}
+
+.paritura
+{
+		background-color:beige;
+	 height:360px;
+}
+.paritura .paritura-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+} 
+
+.paritura .paritura-fc .pabox
+{
+	background-color:powderblue;
+	width:46%;
+	height:250px;
+	margin-top:30px;
+}
+.paritura .paritura-fc .patext
+{
+	background-color:darkturquoise;
+	text-align:center;
+    margin-top:30px;
+	width:46%;
+	height:250px;
+	
+	
+} 
+.paritura .paritura-fc .patext .patextt
+{
+	background-color:silver;
+	height:40px;
+	width:15%;
+		margin-top:150px;
+		
+}
+
+.pariturb
+{
+		background-color:beige;
+	 height:360px;
+}
+.pariturb .pariturb-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+} 
+
+.pariturb .pariturb-fc .pbbox
+{
+	background-color:powderblue;
+	width:46%;
+	height:250px;
+	margin-top:30px;
+}
+.pariturb .pariturb-fc .pbtext
+{
+	background-color:darkturquoise;
+	text-align:center;
+    margin-top:30px;
+	width:46%;
+	height:250px;
+	
+	
+} 
+.pariturb .pariturb-fc .pbtext .pbtextt
+{
+	background-color:silver;
+	height:40px;
+	width:15%;
+		margin-top:150px;
+		
+}
+
+.pariturc
+{
+		background-color:beige;
+	 height:360px;
+}
+.pariturc .pariturc-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+} 
+
+.pariturc .pariturc-fc .pcbox
+{
+	background-color:powderblue;
+	width:46%;
+	height:250px;
+	margin-top:30px;
+}
+.pariturc .pariturc-fc .pctext
+{
+	background-color:darkturquoise;
+	text-align:center;
+    margin-top:30px;
+	width:46%;
+	height:250px;
+	
+	
+} 
+.pariturc .pariturc-fc .pctext .pctextt
+{
+	background-color:silver;
+	height:40px;
+	width:15%;
+		margin-top:150px;
+		
+}
+
+
+.pariturd
+{
+		background-color:beige;
+	 height:360px;
+}
+.pariturd .pariturd-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+} 
+
+.pariturd .pariturd-fc .pdbox
+{
+	background-color:powderblue;
+	width:46%;
+	height:250px;
+	margin-top:30px;
+}
+.pariturd .pariturd-fc .pdtext
+{
+	background-color:darkturquoise;
+	text-align:center;
+    margin-top:30px;
+	width:46%;
+	height:250px;
+	
+	
+} 
+.pariturd .pariturd-fc .pdtext .pdtextt
+{
+	background-color:silver;
+	height:40px;
+	width:15%;
+		margin-top:150px;
+		
+}
+.pariture
+{
+		background-color:beige;
+	 height:360px;
+}
+.pariture .pariture-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+} 
+
+.pariture .pariture-fc .pebox
+{
+	background-color:powderblue;
+	width:46%;
+	height:250px;
+	margin-top:30px;
+}
+.pariture .pariture-fc  .petext
+{
+	background-color:darkturquoise;
+	text-align:center;
+    margin-top:30px;
+	width:46%;
+	height:250px;
+	
+	
+} 
+.pariture .pariture-fc  .petext .petextt
+{
+	background-color:silver;
+	height:40px;
+	width:15%;
+		margin-top:150px;
+		
+}
+
+.pariturf
+{
+		background-color:beige;
+	 height:360px;
+}
+.pariturf .pariturf-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+} 
+
+.pariturf .pariturf-fc .pfbox
+{
+	background-color:powderblue;
+	width:46%;
+	height:250px;
+	margin-top:30px;
+}
+.pariturf .pariturf-fc  .pftext
+{
+	background-color:darkturquoise;
+	text-align:center;
+    margin-top:30px;
+	width:46%;
+	height:250px;
+	
+	
+} 
+.pariturf .pariturf-fc  .pftext .pftextt
+{
+	background-color:silver;
+	height:40px;
+	width:15%;
+		margin-top:150px;
+		
+}
+
+.pariturg
+{
+		background-color:beige;
+	 height:360px;
+}
+.pariturg .pariturg-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+} 
+
+.pariturg .pariturg-fc .pgbox
+{
+	background-color:powderblue;
+	width:46%;
+	height:250px;
+	margin-top:30px;
+}
+.pariturg .pariturg-fc  .pgtext
+{
+	background-color:darkturquoise;
+	text-align:center;
+    margin-top:30px;
+	width:46%;
+	height:250px;
+	
+	
+} 
+.pariturg .pariturg-fc  .pgtext .pgtextt
+{
+	background-color:silver;
+	height:40px;
+	width:15%;
+		margin-top:150px;
+		
+} 
+
+
+.downloads
+{
+	background-color:violet;
+	height:200px;
+}
+.downloads .downloads-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+.downloads .downloads-fc .newa
+{
+	background-color:lightblue;
+	text-align:center;
+		margin-top:60px;
+		width:55%
+	
+}
+.downloads .downloads-fc .newb
+{
+	background-color:pink;
+	height:50px;
+	width:35%;
+		margin-top:60px;
+}
+
+.website
+{
+	background-color :black;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:mistyrose;
+	width:15%;
+	height:35px;
+	margin-top:50px;
+}
+
